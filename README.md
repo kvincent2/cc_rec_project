@@ -17,4 +17,4 @@ First Use Instructions:
 Running the code:
 1. Access key must be entered as a parameter to the main function.
 2. Use the command `go run main.go [access key]` to run script.
-3. If the required .txt files are not available, or if the .txt files contain non-digit values, the script will panic and end.
+3. If the required .csv files are not available, or if the .csv files contain non-digit values, the script will panic and end.
