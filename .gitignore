@@ -1,1 +1,4 @@
-csv/*.csv
+*.csv
+cc_rec_project/_1csv
+cc_rec_project/__MACOSX
+cc_rec_project/cc_rec_project
